@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Hi 👋, I'm Haoming, </h1>
 
-### <div align="center">I'm Haoming, a graduate student  👨‍💻 at University of Ottawa 🚀</div>  
+### <div align="center">A graduate student  👨‍💻 at University of Ottawa 🚀</div>  
+<br/>
   
 
 - ❓ Ask me about anything related to Spring Boot - React stack and related technologies  
