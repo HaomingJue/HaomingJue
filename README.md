@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I use shift over CAPS  
   
 
+- 🧠 I'm currently learning ASP.Net and Angular
+
 <br/>  
 
 
@@ -30,9 +32,10 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a> 
+<a href="https://angular.io" target="_blank"><img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" /></a> 
 </div>
-
+  
 </td><td valign="top" width="33%">
 
 
