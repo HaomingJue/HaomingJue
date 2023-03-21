@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I use shift over CAPS  
   
 
-- 🧠 I'm currently learning ASP.Net and Angular
+- 🧠 I'm currently learning Helm and Kubernetes
 
 <br/>  
 
