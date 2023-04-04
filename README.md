@@ -106,7 +106,7 @@
 
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=haomingjue&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyledulce&show_icons=true&locale=en" alt="kyledulce" /></div>  
 
 
 
